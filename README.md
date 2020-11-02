@@ -1,7 +1,6 @@
 # Moneysave's Dashboard Automation Project
 
-This is the automation testing script code for Moneysave's Dashboard, developed by Semut Bulldog's QA team.
-
+This is the automation testing script code for Moneysave's Dashboard, developed by Semut Bulldog's QA team
 
 ## After clone the repository, don't forget to :
 
